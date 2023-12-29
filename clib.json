@@ -1,0 +1,12 @@
+{
+  "name": "tg",
+  "version": "v0.3.0",
+  "repo": "tidwall/tg",
+  "description": "Geometry library for C - Fast point-in-polygon",
+  "keywords": ["geometry", "polygon", "point-in-polygon"],
+  "license": "MIT",
+  "src": [
+    "tg.h",
+    "tg.c"
+  ]
+}
